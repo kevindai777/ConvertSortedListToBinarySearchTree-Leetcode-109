@@ -1,3 +1,5 @@
+//Objective is to convert a sorted linked list to a BST.
+
 class Node {
     constructor(val, next = null) { //if next is not given, assume it is empty
       this.val = val
